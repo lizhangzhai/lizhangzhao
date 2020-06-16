@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2020-04-19 15:45:42
+ * @version $Id$
+ */
+body{background: #9082ff  url('D:\UserData\Desktop\html练习\主题\image\bg\2.jpg')
+ no-repeat fixed}
+header{text-align: center; }
+font{font-size: 16; color: #0a0a30 ;font-style: 宋体; }
+img{ width: 255px;height: 300px;float: ;margin: ;padding: 20; }
